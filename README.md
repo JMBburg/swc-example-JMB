@@ -9,4 +9,5 @@ Quick markdown overview
 - include [links](https://embl.de) with '[ ]' and '( )'
 
 - *italics* come by * * or _ _
+- everything else can be looked up [here] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
