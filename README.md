@@ -5,4 +5,8 @@ Quick markdown overview
 
 - write bullet lists with '-'
 - create **bold text** with '**'
+- another way for bold is __underscore__
 - include [links](https://embl.de) with '[ ]' and '( )'
+
+- *italics* come by * * or _ _
+
